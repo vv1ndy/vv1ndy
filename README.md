@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vv1ndy
 - 👀 I’m interested in playing game and IoT, football
 - 🌱 I’m currently learning Ha Noi University of Science and Technology
-- 💞️ I’m looking to collaborate on IoT, web developer
+- 💞️ I’m looking to collaborate on IoT, Operating system
 - 📫 How to reach me phong150403@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
